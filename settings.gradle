@@ -1,0 +1,2 @@
+rootProject.name = "P08 MapPS"
+include ':app'
